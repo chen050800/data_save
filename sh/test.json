@@ -1,0 +1,15 @@
+{"fw_type":
+{"test":
+{"cmd_b_list": ["^neteye\\s*$", "hostname\\s+NetEye"],
+"cmd_a_list": ["SAXAss1000", "hostname SAXA"],
+"catch_b_list": ["Neusoft NetEye","NetEye"],
+"catch_a_list": ["SAXA","SAXA"]
+}
+
+},
+{"AthenaT2":
+{"cmd_b_list": ["User VSys UserType From LoginType"],
+"cmd_a_list": ["User Vsys UserType From LoginType"],
+}
+}
+}
